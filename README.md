@@ -50,4 +50,5 @@ This script sets up a QR code scanner application for recording attendance in re
 
 
 QR Sender Email image
+
 ![QR Sender Email image](https://github.com/user-attachments/assets/f2c53f48-8045-4774-90ac-8888b9193a77)
