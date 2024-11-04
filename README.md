@@ -47,3 +47,6 @@ This script sets up a QR code scanner application for recording attendance in re
 1. Ensure you have the required libraries installed. You can install them using:
    ```bash
    pip install qrcode pandas openpyxl pyzbar opencv-python
+
+   ![image](https://github.com/user-attachments/assets/e6adc417-b5c4-4813-a324-c665b6470120)
+
